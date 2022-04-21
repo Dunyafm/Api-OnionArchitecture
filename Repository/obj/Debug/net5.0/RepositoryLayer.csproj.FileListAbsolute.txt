@@ -1,0 +1,5 @@
+C:\Users\dima-\Desktop\Asp.net\Api-Onion\Repository\obj\Debug\net5.0\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\dima-\Desktop\Asp.net\Api-Onion\Repository\obj\Debug\net5.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dima-\Desktop\Asp.net\Api-Onion\Repository\obj\Debug\net5.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\dima-\Desktop\Asp.net\Api-Onion\Repository\obj\Debug\net5.0\RepositoryLayer.AssemblyInfo.cs
+C:\Users\dima-\Desktop\Asp.net\Api-Onion\Repository\obj\Debug\net5.0\RepositoryLayer.csproj.CoreCompileInputs.cache
